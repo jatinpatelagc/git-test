@@ -1,2 +1,3 @@
 
-this is file is changes during jatin-staging branch
+echo "this is coding of file 7 ";
+
